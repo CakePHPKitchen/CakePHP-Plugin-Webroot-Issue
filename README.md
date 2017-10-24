@@ -1,7 +1,5 @@
 # CakePHP Webroot Plugin Issue
 
-In case you want to use a custom app dir name (e.g. `/myapp/`):
-
 ```bash
 git clone https://github.com/CakePHPKitchen/CakePHP-Plugin-Webroot-Issue.git
 ```
