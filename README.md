@@ -3,7 +3,7 @@
 In case you want to use a custom app dir name (e.g. `/myapp/`):
 
 ```bash
-git clone https://github.com/jeffreyroberts/CakePHP-Plugin-Webroot-Issue.git
+git clone https://github.com/CakePHPKitchen/CakePHP-Plugin-Webroot-Issue.git
 ```
 
 You can now either use your machine's webserver to view the default home page, or start
