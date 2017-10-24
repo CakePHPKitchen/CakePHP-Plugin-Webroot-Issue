@@ -222,3 +222,5 @@ if (Configure::read('debug')) {
 }
 
 Plugin::load('Elite', ['bootstrap' => false, 'routes' => true]);
+
+Plugin::load('EndUsers', ['bootstrap' => false, 'routes' => true]);
